@@ -1,0 +1,266 @@
+Формування першої команди
+Choose droid №1
+1. Basic Droid (Stantard attack and health)
+2. Storm trooper Droid(More damage, less health, critical attack)
+3. Guard Droid (More health, less damage, attack blocking
+2
+Choose droid №2
+1. Basic Droid (Stantard attack and health)
+2. Storm trooper Droid(More damage, less health, critical attack)
+3. Guard Droid (More health, less damage, attack blocking
+2
+Choose droid №3
+1. Basic Droid (Stantard attack and health)
+2. Storm trooper Droid(More damage, less health, critical attack)
+3. Guard Droid (More health, less damage, attack blocking
+3
+
+Формування другої команди
+Choose droid №1
+1. Basic Droid (Stantard attack and health)
+2. Storm trooper Droid(More damage, less health, critical attack)
+3. Guard Droid (More health, less damage, attack blocking
+1
+Choose droid №2
+1. Basic Droid (Stantard attack and health)
+2. Storm trooper Droid(More damage, less health, critical attack)
+3. Guard Droid (More health, less damage, attack blocking
+1
+Choose droid №3
+1. Basic Droid (Stantard attack and health)
+2. Storm trooper Droid(More damage, less health, critical attack)
+3. Guard Droid (More health, less damage, attack blocking
+3
+[0m
+----------------------------Turn number:1----------------------------
+Your turn:
+[1;32mDroid-StormTrooper give damage-25 to Basic Droid
+[0mEnemy turn:
+[1;35mDroid-Basic Droid give damage-8 to Guard
+[0;34m
+Your team:
+StormTrooper(HP: 60  Av Dmg: 30)
+StormTrooper(HP: 60  Av Dmg: 30)
+Guard(HP: 142  Av Dmg: 10)
+[0;31m
+Enemy team:
+Basic Droid(HP: 75  Av Dmg: 20)
+Basic Droid(HP: 100  Av Dmg: 20)
+Guard(HP: 150  Av Dmg: 10)
+[0m
+----------------------------Turn number:2----------------------------
+Your turn:
+[1;32mDroid-StormTrooper give damage-28 to Basic Droid
+[0mEnemy turn:
+[1;35mDroid-Basic Droid give damage-8 to Guard
+[0;34m
+Your team:
+StormTrooper(HP: 60  Av Dmg: 30)
+StormTrooper(HP: 60  Av Dmg: 30)
+Guard(HP: 134  Av Dmg: 10)
+[0;31m
+Enemy team:
+Basic Droid(HP: 75  Av Dmg: 20)
+Basic Droid(HP: 72  Av Dmg: 20)
+Guard(HP: 150  Av Dmg: 10)
+[0m
+----------------------------Turn number:3----------------------------
+Your turn:
+[0;92mCritical attack
+[1;32mDroid-StormTrooper give damage-50 to Basic Droid
+[0mEnemy turn:
+[1;35mDroid-Basic Droid give damage-11 to Guard
+[0;34m
+Your team:
+StormTrooper(HP: 60  Av Dmg: 30)
+StormTrooper(HP: 60  Av Dmg: 30)
+Guard(HP: 123  Av Dmg: 10)
+[0;31m
+Enemy team:
+Basic Droid(HP: 25  Av Dmg: 20)
+Basic Droid(HP: 72  Av Dmg: 20)
+Guard(HP: 150  Av Dmg: 10)
+[0m
+----------------------------Turn number:4----------------------------
+Your turn:
+[1;32mDroid-StormTrooper give damage-27 to Guard
+[0mEnemy turn:
+[1;35mDroid-Basic Droid give damage-16 to StormTrooper
+[0;34m
+Your team:
+StormTrooper(HP: 44  Av Dmg: 30)
+StormTrooper(HP: 60  Av Dmg: 30)
+Guard(HP: 123  Av Dmg: 10)
+[0;31m
+Enemy team:
+Basic Droid(HP: 25  Av Dmg: 20)
+Basic Droid(HP: 72  Av Dmg: 20)
+Guard(HP: 123  Av Dmg: 10)
+[0m
+----------------------------Turn number:5----------------------------
+Your turn:
+[0;92mCritical attack
+[1;32mDroid-StormTrooper give damage-50 to Basic Droid
+[0mEnemy turn:
+[1;35mDroid-Basic Droid give damage-13 to StormTrooper
+[0;34m
+Your team:
+StormTrooper(HP: 44  Av Dmg: 30)
+StormTrooper(HP: 47  Av Dmg: 30)
+Guard(HP: 123  Av Dmg: 10)
+[0;31m
+Enemy team:
+Basic Droid(HP: 25  Av Dmg: 20)
+Basic Droid(HP: 22  Av Dmg: 20)
+Guard(HP: 123  Av Dmg: 10)
+[0m
+----------------------------Turn number:6----------------------------
+Your turn:
+[1;32mDroid-StormTrooper give damage-22 to Basic Droid
+[0mEnemy turn:
+[1;35mDroid-Basic Droid give damage-18 to StormTrooper
+[0;34m
+Your team:
+StormTrooper(HP: 44  Av Dmg: 30)
+StormTrooper(HP: 29  Av Dmg: 30)
+Guard(HP: 123  Av Dmg: 10)
+[0;31m
+Enemy team:
+Basic Droid(HP: 3  Av Dmg: 20)
+Basic Droid(HP: 22  Av Dmg: 20)
+Guard(HP: 123  Av Dmg: 10)
+[0m
+----------------------------Turn number:7----------------------------
+Your turn:
+[0;92mCritical attack
+[1;91mKilled droid
+[1;32mDroid-StormTrooper give damage-50 to Basic Droid
+[0mEnemy turn:
+[1;35mDroid-Basic Droid give damage-6 to Guard
+[0;34m
+Your team:
+StormTrooper(HP: 44  Av Dmg: 30)
+StormTrooper(HP: 29  Av Dmg: 30)
+Guard(HP: 117  Av Dmg: 10)
+[0;31m
+Enemy team:
+Basic Droid(HP: 22  Av Dmg: 20)
+Guard(HP: 123  Av Dmg: 10)
+[0m
+----------------------------Turn number:8----------------------------
+Your turn:
+[1;32mDroid-StormTrooper give damage-30 to Guard
+[0mEnemy turn:
+[1;91mAttack was blocked
+[0;34m
+Your team:
+StormTrooper(HP: 44  Av Dmg: 30)
+StormTrooper(HP: 29  Av Dmg: 30)
+Guard(HP: 117  Av Dmg: 10)
+[0;31m
+Enemy team:
+Basic Droid(HP: 22  Av Dmg: 20)
+Guard(HP: 93  Av Dmg: 10)
+[0m
+----------------------------Turn number:9----------------------------
+Your turn:
+[1;91mKilled droid
+[1;32mDroid-StormTrooper give damage-24 to Basic Droid
+[0mEnemy turn:
+[1;91mAttack was blocked
+[0;34m
+Your team:
+StormTrooper(HP: 44  Av Dmg: 30)
+StormTrooper(HP: 29  Av Dmg: 30)
+Guard(HP: 117  Av Dmg: 10)
+[0;31m
+Enemy team:
+Guard(HP: 93  Av Dmg: 10)
+[0m
+----------------------------Turn number:10----------------------------
+Your turn:
+[1;32mDroid-StormTrooper give damage-20 to Guard
+[0mEnemy turn:
+[1;35mDroid-Guard give damage-8 to Guard
+[0;34m
+Your team:
+StormTrooper(HP: 44  Av Dmg: 30)
+StormTrooper(HP: 29  Av Dmg: 30)
+Guard(HP: 109  Av Dmg: 10)
+[0;31m
+Enemy team:
+Guard(HP: 73  Av Dmg: 10)
+[0m
+----------------------------Turn number:11----------------------------
+Your turn:
+[0;92mCritical attack
+[1;32mDroid-StormTrooper give damage-50 to Guard
+[0mEnemy turn:
+[1;35mDroid-Guard give damage-10 to StormTrooper
+[0;34m
+Your team:
+StormTrooper(HP: 34  Av Dmg: 30)
+StormTrooper(HP: 29  Av Dmg: 30)
+Guard(HP: 109  Av Dmg: 10)
+[0;31m
+Enemy team:
+Guard(HP: 23  Av Dmg: 10)
+[0m
+----------------------------Turn number:12----------------------------
+Your turn:
+[1;91mAttack was blocked
+[0mEnemy turn:
+[1;35mDroid-Guard give damage-9 to StormTrooper
+[0;34m
+Your team:
+StormTrooper(HP: 34  Av Dmg: 30)
+StormTrooper(HP: 20  Av Dmg: 30)
+Guard(HP: 109  Av Dmg: 10)
+[0;31m
+Enemy team:
+Guard(HP: 23  Av Dmg: 10)
+[0m
+----------------------------Turn number:13----------------------------
+Your turn:
+[1;32mDroid-StormTrooper give damage-11 to Guard
+[0mEnemy turn:
+[1;35mDroid-Guard give damage-10 to StormTrooper
+[0;34m
+Your team:
+StormTrooper(HP: 24  Av Dmg: 30)
+StormTrooper(HP: 20  Av Dmg: 30)
+Guard(HP: 109  Av Dmg: 10)
+[0;31m
+Enemy team:
+Guard(HP: 12  Av Dmg: 10)
+[0m
+----------------------------Turn number:14----------------------------
+Your turn:
+[1;91mAttack was blocked
+[0mEnemy turn:
+[1;35mDroid-Guard give damage-7 to StormTrooper
+[0;34m
+Your team:
+StormTrooper(HP: 24  Av Dmg: 30)
+StormTrooper(HP: 13  Av Dmg: 30)
+Guard(HP: 109  Av Dmg: 10)
+[0;31m
+Enemy team:
+Guard(HP: 12  Av Dmg: 10)
+[0m
+----------------------------Turn number:15----------------------------
+Your turn:
+[1;91mKilled droid
+[1;32mDroid-StormTrooper give damage-14 to Guard
+[0mEnemy turn:
+[0;33mTeam is empty
+
+[0;34m
+Your team:
+StormTrooper(HP: 24  Av Dmg: 30)
+StormTrooper(HP: 13  Av Dmg: 30)
+Guard(HP: 109  Av Dmg: 10)
+[0;31m
+Enemy team:
+[0;33mEmpty
+[1;92mYou win
